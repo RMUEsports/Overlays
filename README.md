@@ -1,4 +1,4 @@
-# Overlays
-Overlay Repo
+# Stream-Assets
+Assets Repo
 
-This repo holds all of the overlay resources for Streamlabs.
+This repo holds all of the stream resources for Streamlabs.
